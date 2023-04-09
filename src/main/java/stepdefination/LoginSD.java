@@ -63,6 +63,8 @@ public class LoginSD {
         System.out.println("expected="+expected);
         System.out.println("actual="+actual);
         Assert.assertEquals(expected,actual);
+        System.out.println("hurray!");
+
     }
 
     @When("I enter blank username and blank password")
