@@ -63,7 +63,7 @@ public class LoginSD {
         System.out.println("expected="+expected);
         System.out.println("actual="+actual);
         Assert.assertEquals(expected,actual);
-        System.out.println("hurray!");
+        System.out.println("hip hip hurray!");
 
     }
 
